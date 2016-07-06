@@ -1,0 +1,23 @@
+{
+  "name": "esx",
+  "version": "1.0.0",
+  "description": "use new technology build project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jincai.wang@foxmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-webpack-build": "^0.13.1",
+    "immutable": "^3.8.1",
+    "webpack": "^1.13.1",
+    "webpack-config": "^0.8.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
